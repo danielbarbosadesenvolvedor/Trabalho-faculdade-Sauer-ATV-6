@@ -1,4 +1,4 @@
 # Trabalho-faculdade-Sauer-ATV-6
-Professor: ALexandre Sauer
-Disciplina: Qualidade do Sofware 
-Integrant: Daniel Barbosa e Victor Augusto
+**Professor:** Alexandre Sauer  
+**Disciplina:** Qualidade do Sofware   
+**Integrantes:** Daniel Barbosa e Victor Augusto  
